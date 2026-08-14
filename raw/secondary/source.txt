@@ -1,0 +1,11 @@
+The United Nations World Population Prospects 2024 dataset was used to inform the calculation of remaining life expectancies and leader age percentiles.
+
+The exact datasets used in this project can be accessed at:
+https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format
+
+To replicate wpp_ex.csv, download the relevant file from the Life Tables subsection. The specific dataset used is the 2024–2100, medium (gz) file containing the remaining life expectancy (ex) metrics.
+
+To replicate wpp_percentages.csv, download the relevant file from the Population subsection. The specific dataset used is the 2024–2100 (gz) file containing population percentages by single age.
+
+Citation:
+United Nations, Department of Economic and Social Affairs, Population Division (2024). World Population Prospects 2024, Online Edition.
